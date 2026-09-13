@@ -1,0 +1,2 @@
+# Sims4ModDoctor-Release
+帮助你管理Sims4的Mods文件夹的神级智能助手
